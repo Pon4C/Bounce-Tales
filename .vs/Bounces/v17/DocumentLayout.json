@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CamTu\\Bounces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5413F0-34DA-AC89-6AEB-54D303AFE2D5}|Assembly-CSharp.csproj|c:\\users\\camtu\\bounces\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5413F0-34DA-AC89-6AEB-54D303AFE2D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5413F0-34DA-AC89-6AEB-54D303AFE2D5}|Assembly-CSharp.csproj|c:\\users\\camtu\\bounces\\assets\\sprites\\kenney_rolling-ball-assets\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F5413F0-34DA-AC89-6AEB-54D303AFE2D5}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\kenney_rolling-ball-assets\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\CamTu\\Bounces\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\CamTu\\Bounces\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwE0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:45:54.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "License.txt",
+              "DocumentMoniker": "C:\\Users\\CamTu\\Bounces\\Assets\\Sprites\\kenney_rolling-ball-assets\\License.txt",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\kenney_rolling-ball-assets\\License.txt",
+              "ToolTip": "C:\\Users\\CamTu\\Bounces\\Assets\\Sprites\\kenney_rolling-ball-assets\\License.txt",
+              "RelativeToolTip": "Assets\\Sprites\\kenney_rolling-ball-assets\\License.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-07T17:24:09.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
